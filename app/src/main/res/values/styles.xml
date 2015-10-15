@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <item name="actionBarStyle">@style/ActionBar</item>
+        <item name="popupTheme">@style/ThemeOverlay.AppCompat.Light</item>
+
+        <!-- Customizations for Material Design purposes -->
+        <item name="colorPrimary">@color/actionbar_background_color</item>
+        <item name="colorPrimaryDark">@color/actionbar_background_color</item>
+        <item name="colorAccent">@color/common_blue</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="windowNoTitle">true</item>
+
+        <item name="actionMenuTextColor">@color/actionbar_action_text_color</item>
+    </style>
+
+    <style name="ActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid">
+        <item name="android:background">@color/actionbar_background_color</item>
+        <item name="background">@color/actionbar_background_color</item>
+        <item name="titleTextStyle">@style/ActionBarTitleText</item>
+    </style>
+
+    <style name="ActionBarTitleText" parent="@style/TextAppearance.AppCompat.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/actionbar_text_color</item>
+    </style>
+
+</resources>

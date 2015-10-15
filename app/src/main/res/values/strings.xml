@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" formatted="false">Nestor Scraper</string>
+    <string name="common_accept" formatted="false">Accept</string>
+    <string name="common_cancel" formatted="false">Cancel</string>
+    <string name="url_empty_data" formatted="false">No specific data for this</string>
+</resources>

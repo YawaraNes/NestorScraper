@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="actionbar_text_color">@color/common_blue</color>
+    <color name="actionbar_action_text_color">@color/actionbar_text_color</color>
+    <color name="actionbar_background_color">@color/common_background</color>
+    <color name="common_background">#fff8f8f8</color>
+    <color name="common_white">#FFFFFF</color>
+    <color name="common_light_gray">#CCCCCC</color>
+    <color name="divider_color">@color/common_light_gray</color>
+    <color name="transparent_color">@android:color/transparent</color>
+    <color name="light_blue">#009efe</color>
+    <color name="common_blue">#003399</color>
+    <color name="common_alpha_blue">#88003399</color>
+    <color name="common_dark_blue">#000066</color>
+    <color name="common_black">#000000</color>
+    <color name="common_grey">#656565</color>
+    <color name="common_alpha_grey">#88656565</color>
+    <color name="light_grey">#ffdddddd</color>
+
+    <!-- Common -->
+    <color name="over_button_background_color">@color/common_blue</color>
+    <color name="over_button_background_pressed_color">@color/common_alpha_blue</color>
+    <color name="over_button_background_secondary_color">@color/common_grey</color>
+    <color name="over_button_background_secondary_pressed_color">@color/common_alpha_grey</color>
+    <color name="over_button_text_color">#ffffff</color>
+    <color name="list_divider_color">@color/transparent_color</color>
+
+    <!-- LightBlue button -->
+    <color name="light_blue_button">@color/light_blue</color>
+    <color name="light_blue_button_pressed">#3b6bac</color>
+
+</resources>
